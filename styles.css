@@ -1,0 +1,39 @@
+body {  
+    margin: 0;
+}
+header {
+    width: auto;
+    background-color: springgreen;
+    height: 224px;
+}
+
+#cat {
+    margin-left: 100px;
+    width: 200px;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+}
+#name {
+    float: right;
+    margin-right: 400px;
+    font-size: 90px;
+    margin-top: 55px;
+}
+
+hr {
+    height: 10px;
+    background-color: green;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#code_example {
+    background-color: greenyellow;
+}
